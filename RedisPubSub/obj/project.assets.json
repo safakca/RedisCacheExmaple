@@ -127,26 +127,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\safak\\.nuget\\packages\\": {}
+    "/Users/safakca/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECT\\RedisCacheExmaple\\RedisPubSub\\RedisPubSubPublisher.csproj",
+      "projectUniqueName": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub/RedisPubSubPublisher.csproj",
       "projectName": "RedisPubSubPublisher",
-      "projectPath": "D:\\PROJECT\\RedisCacheExmaple\\RedisPubSub\\RedisPubSubPublisher.csproj",
-      "packagesPath": "C:\\Users\\safak\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECT\\RedisCacheExmaple\\RedisPubSub\\obj\\",
+      "projectPath": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub/RedisPubSubPublisher.csproj",
+      "packagesPath": "/Users/safakca/.nuget/packages/",
+      "outputPath": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\safak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/safakca/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Projects\\FERP\\EInvoice.EG.Nuget\\EInvoice.EG.Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -186,7 +184,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
       }
     }
   }
