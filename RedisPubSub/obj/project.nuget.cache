@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1zhJjhFVn9wVssJp+nDYslwfbCZLQanhPI2b41x65bxhCfr1Q9aq1OsB8FTMHZil9IYxUnPxt+nAQd00ZY2SUA==",
+  "dgSpecHash": "cUkiRRmDyc1jpFWzgqzmWsIHwM7DRi99/YIE1X5QIgR9H5GiK8Rn1KpBx9MMAuRr4OuAWHBpxiH1FHI317/9dQ==",
   "success": true,
-  "projectFilePath": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub/RedisPubSub.Publisher.csproj",
+  "projectFilePath": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub/RedisPubSubPublisher.csproj",
   "expectedPackageFiles": [
     "/Users/safakca/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "/Users/safakca/.nuget/packages/stackexchange.redis/2.6.122/stackexchange.redis.2.6.122.nupkg.sha512",

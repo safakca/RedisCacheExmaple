@@ -132,9 +132,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub.Subscriber/RedisPubSub.Subscriber.csproj",
-      "projectName": "RedisPubSub.Subscriber",
-      "projectPath": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub.Subscriber/RedisPubSub.Subscriber.csproj",
+      "projectUniqueName": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub.Subscriber/RedisPubSubSubscriber.csproj",
+      "projectName": "RedisPubSubSubscriber",
+      "projectPath": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub.Subscriber/RedisPubSubSubscriber.csproj",
       "packagesPath": "/Users/safakca/.nuget/packages/",
       "outputPath": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub.Subscriber/obj/",
       "projectStyle": "PackageReference",

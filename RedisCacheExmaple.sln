@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCaching", "InMemory
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedCaching", "DistributedCaching\DistributedCaching.csproj", "{A53C916C-5F27-40F0-94E1-17B08833F1AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPubSub.Publisher", "RedisPubSub\RedisPubSub.Publisher.csproj", "{4A0EF8F5-5526-4022-84BB-B97754024BEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPubSubPublisher", "RedisPubSub\RedisPubSubPublisher.csproj", "{4A0EF8F5-5526-4022-84BB-B97754024BEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPubSub.Subscriber", "RedisPubSub.Subscriber\RedisPubSub.Subscriber.csproj", "{A9C7D4AD-3760-4A96-A4E2-8B7754F7CDA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPubSubSubscriber", "RedisPubSub.Subscriber\RedisPubSubSubscriber.csproj", "{A9C7D4AD-3760-4A96-A4E2-8B7754F7CDA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
