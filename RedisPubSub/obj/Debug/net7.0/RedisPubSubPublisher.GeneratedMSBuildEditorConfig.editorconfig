@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RedisPubSubPublisher
-build_property.ProjectDir = /Users/safakca/Projects/RedisCacheExmaple/RedisPubSub/
+build_property.ProjectDir = D:\PROJECT\RedisCacheExmaple\RedisPubSub\

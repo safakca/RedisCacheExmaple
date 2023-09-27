@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tKIav5GmY4b7qHaV95GpGyP1RmHZh6JjrGOHQ13rOAZQ3DzQllhIUDGSnm61OpBjKI8zZz0xPsON7GDKNJj1aA==",
+  "dgSpecHash": "5l7a7A3CCxKgwXckb3OD1/bjKVqbroZ9yehS3FqgtaAgv+g8EdTA2OPiFawPx8Fu3JxLT/r/JBbY/hKQLRTp4g==",
   "success": true,
-  "projectFilePath": "/Users/safakca/Projects/RedisCacheExmaple/RedisPubSub.Subscriber/RedisPubSubSubscriber.csproj",
+  "projectFilePath": "D:\\PROJECT\\RedisCacheExmaple\\RedisPubSub.Subscriber\\RedisPubSubSubscriber.csproj",
   "expectedPackageFiles": [
-    "/Users/safakca/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
-    "/Users/safakca/.nuget/packages/stackexchange.redis/2.6.122/stackexchange.redis.2.6.122.nupkg.sha512",
-    "/Users/safakca/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+    "C:\\Users\\safak\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\safak\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\safak\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
