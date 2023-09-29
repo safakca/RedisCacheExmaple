@@ -36,10 +36,10 @@ public sealed class RedisService
 
         string localMasterIP = masterEndpoint.ToString() switch
         {
-            "172.18.0.2:6379" => "6379",
-            "172.18.0.3:6380" => "6380",
-            "172.18.0.4:6381" => "6381",
-            "172.18.0.5:6382" => "6382"
+            "172.19.0.2:6379" => "localhost:6379",
+            "172.19.0.3:6380" => "localhost:6380",
+            "172.19.0.4:6381" => "localhost:6381",
+            "172.19.0.5:6382" => "localhost:6382"
         };
 
         ConnectionMultiplexer masterConnection = await ConnectionMultiplexer.ConnectAsync(localMasterIP);
